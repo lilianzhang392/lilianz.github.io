@@ -5,6 +5,15 @@ body, html{
     font-family: Arial;
 }
 
+/*style navigation panel*/
+nav{
+    float: left;
+    width:20%;
+    background:gray;
+    padding:20px;
+}
+
+
 /* Style tab links */
 .tablink {
     background-color: #555;
